@@ -1,0 +1,36 @@
+{
+   "languageShort": {
+      "ko": "KOR",
+      "vi": "VIE",
+      "en": "ENG"
+   },
+   "language": {
+      "ko": "KOREAN",
+      "vi": "VIETNAN",
+      "en": "ENGLISH"
+   },
+   "country": {
+      "ko": "KOREA",
+      "vn": "VIETNAN",
+      "en": "USA"
+   },
+   "logout": "Đăng xuất",
+   "login": "Đăng nhập",
+   "toc": {
+      "constructionData": "dữ liệu thi công",
+      "ApplyManage": "quản lý đơn đăng ký",
+      "ViewerManage": "quản lý công nhân",
+      "LogPage": "xác nhận lý lịch",
+      "contactUs": "Contact Us",
+      "versionInfo": "Version Info"
+   },
+   "map": {
+      "design": "Design",
+      "construction": "Construction"
+   },
+   "sp": "SMARTPIN",
+   "spList": "SMARTPIN LIST",
+   "siteInfo": "SITE INFO",
+   "siteName": "Site",
+   "address": "Address"
+}

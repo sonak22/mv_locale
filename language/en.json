@@ -1,0 +1,36 @@
+{
+   "languageShort": {
+      "ko": "KOR",
+      "vi": "VIE",
+      "en": "ENG"
+   },
+   "language": {
+      "ko": "KOREAN",
+      "vi": "VIETNAN",
+      "en": "ENGLISH"
+   },
+   "country": {
+      "ko": "KOREA",
+      "vn": "VIETNAN",
+      "en": "USA"
+   },
+   "logout": "Log out",
+   "login": "Log In",
+   "toc": {
+      "constructionData": "Construction",
+      "ApplyManage": "Request Mgmt",
+      "ViewerManage": "Viewer Mgmt",
+      "LogPage": "Log History",
+      "contactUs": "Contact Us",
+      "versionInfo": "Version Info"
+   },
+   "map": {
+      "design": "Design",
+      "construction": "Construction"
+   },
+   "sp": "SMARTPIN",
+   "spList": "SMARTPIN LIST",
+   "siteInfo": "SITE INFO",
+   "siteName": "Site Name",
+   "address": "Address"
+}

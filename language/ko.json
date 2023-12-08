@@ -1,0 +1,36 @@
+{
+   "languageShort": {
+      "ko": "KOR",
+      "vi": "VIE",
+      "en": "ENG"
+   },
+   "language": {
+      "ko": "KOREAN",
+      "vi": "VIETNAN",
+      "en": "ENGLISH"
+   },
+   "country": {
+      "ko": "대한민국",
+      "vn": "베트남",
+      "en": "미국"
+   },
+   "logout": "Log out",
+   "login": "Log In",
+   "toc": {
+      "constructionData": "시공 데이터",
+      "ApplyManage": "사용 신청 관리",
+      "ViewerManage": "작업자 관리",
+      "LogPage": "인증 이력 조회",
+      "contactUs": "문의하기",
+      "versionInfo": "버전 정보"
+   },
+   "map": {
+      "design": "설계",
+      "construction": "시공"
+   },
+   "sp": "스마트핀",
+   "spList": "스마트핀 목록",
+   "siteInfo": "현장 정보",
+   "siteName": "현장명",
+   "address": "주소"
+}
